@@ -120,11 +120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhammad Hasan\\source\\repos\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium.csproj",
+      "projectUniqueName": "C:\\Users\\Muhammad Hasan\\Desktop\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium.csproj",
       "projectName": "HasanFacebookRegisterAutomationSelenium",
-      "projectPath": "C:\\Users\\Muhammad Hasan\\source\\repos\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium.csproj",
+      "projectPath": "C:\\Users\\Muhammad Hasan\\Desktop\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium.csproj",
       "packagesPath": "C:\\Users\\Muhammad Hasan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhammad Hasan\\source\\repos\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium\\obj\\",
+      "outputPath": "C:\\Users\\Muhammad Hasan\\Desktop\\HasanFacebookRegisterAutomationSelenium\\HasanFacebookRegisterAutomationSelenium\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muhammad Hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",

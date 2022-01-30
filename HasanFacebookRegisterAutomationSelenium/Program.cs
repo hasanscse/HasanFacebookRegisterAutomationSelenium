@@ -31,7 +31,7 @@ namespace SeleniumFirst
             System.Threading.Thread.Sleep(4000);
 
             IWebElement lastname = driver.FindElement(By.Name("lastname"));
-            firstname.SendKeys("Hasan");
+            lastname.SendKeys("Hasan");
             System.Threading.Thread.Sleep(4000);
 
             IWebElement reg_email__ = driver.FindElement(By.Name("reg_email__"));
