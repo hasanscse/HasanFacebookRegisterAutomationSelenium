@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace SeleniumFirst
+namespace HasanFacebookRegisterAutomationSelenium
 {
     class Program
     {
